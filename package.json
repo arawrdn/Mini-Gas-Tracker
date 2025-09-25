@@ -1,0 +1,23 @@
+{
+  "name": "mini-gas-tracker",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@reown/appkit": "^1.2.0",
+    "@reown/appkit-adapter-wagmi": "^1.2.0",
+    "wagmi": "^2.10.0",
+    "viem": "^2.9.1",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "axios": "^1.6.0"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-react": "^4.2.1",
+    "vite": "^5.2.0"
+  }
+}
